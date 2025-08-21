@@ -1,2 +1,3 @@
 # BISLab
-Programs Implemented during Bio - Inspired Systems
+Programs Implemented during Bio - Inspired Systems Laboratary
+
